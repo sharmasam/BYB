@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Facebook-friend-list-viewer</string>
+    <string name="login_button">Login to Facebook</string>
+    <string name="login_failed_text">Login to Facebook failed</string>
+    <string name="login_canceled_text">Canceled by user</string>
+    <string name="session_no_valid_text">No valid session found, please login.</string>
+    <string name="profile_picture_description">The persons facebook profile picture</string>
+    <string name="downloading_friends_text">Getting your friends. Please wait.</string>
+    <string name="login_button_description">Facebook login button</string>
+
+</resources>
